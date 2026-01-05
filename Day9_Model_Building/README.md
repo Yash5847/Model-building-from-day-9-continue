@@ -17,3 +17,5 @@ To build a basic regression model and evaluate its performance.
 
 ## Outcome
 Successfully trained a regression model and understood basic model evaluation metrics.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fb82207-ab94-4e85-86a9-43c3ae7efc23" />
