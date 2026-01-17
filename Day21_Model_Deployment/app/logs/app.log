@@ -1,0 +1,161 @@
+2026-01-17 17:32:53,429 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'models/model.pkl'
+2026-01-17 17:32:53,430 - INFO - Application started
+2026-01-17 17:32:53,471 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 17:32:53,472 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 17:32:53,495 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:32:54,051 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'models/model.pkl'
+2026-01-17 17:32:54,052 - INFO - Application started
+2026-01-17 17:32:54,065 - WARNING -  * Debugger is active!
+2026-01-17 17:32:54,072 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:34:15,041 - INFO - Home route accessed
+2026-01-17 17:34:15,042 - INFO - 127.0.0.1 - - [17/Jan/2026 17:34:15] "GET / HTTP/1.1" 200 -
+2026-01-17 17:34:15,143 - INFO - 127.0.0.1 - - [17/Jan/2026 17:34:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-17 17:35:39,725 - INFO - 127.0.0.1 - - [17/Jan/2026 17:35:39] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-01-17 17:36:22,073 - INFO - 127.0.0.1 - - [17/Jan/2026 17:36:22] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-01-17 17:37:32,361 - INFO - Input received: {'features': [4, 128, 6, 64]}
+2026-01-17 17:37:32,361 - ERROR - Prediction failed: 'NoneType' object has no attribute 'predict'
+2026-01-17 17:37:32,362 - INFO - 127.0.0.1 - - [17/Jan/2026 17:37:32] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-01-17 17:39:38,206 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:39:38,207 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:39:38,208 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:39:38,499 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:39:43,552 - INFO - Model loaded successfully
+2026-01-17 17:39:43,552 - INFO - Application started
+2026-01-17 17:39:43,566 - WARNING -  * Debugger is active!
+2026-01-17 17:39:43,570 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:40:53,233 - INFO -  * Detected change in 'C:\\Users\\Yash\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\numpy\\__init__.py', reloading
+2026-01-17 17:40:53,571 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:40:54,637 - INFO - Model loaded successfully
+2026-01-17 17:40:54,637 - INFO - Application started
+2026-01-17 17:40:54,645 - WARNING -  * Debugger is active!
+2026-01-17 17:40:54,649 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:41:01,921 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:41:01,922 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:41:01,923 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:41:02,889 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:41:03,995 - INFO - Model loaded successfully
+2026-01-17 17:41:03,996 - INFO - Application started
+2026-01-17 17:41:04,002 - WARNING -  * Debugger is active!
+2026-01-17 17:41:04,006 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:41:31,108 - INFO - Model loaded successfully
+2026-01-17 17:41:31,108 - INFO - Application started
+2026-01-17 17:41:31,128 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 17:41:31,128 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 17:41:31,135 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:41:32,192 - INFO - Model loaded successfully
+2026-01-17 17:41:32,193 - INFO - Application started
+2026-01-17 17:41:32,198 - WARNING -  * Debugger is active!
+2026-01-17 17:41:32,202 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:43:20,049 - INFO - Model loaded successfully
+2026-01-17 17:43:20,049 - INFO - Application started
+2026-01-17 17:43:20,068 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 17:43:20,068 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 17:43:20,076 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:43:21,134 - INFO - Model loaded successfully
+2026-01-17 17:43:21,135 - INFO - Application started
+2026-01-17 17:43:21,141 - WARNING -  * Debugger is active!
+2026-01-17 17:43:21,145 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:49:17,254 - INFO - Model loaded successfully from C:\Users\Yash\OneDrive\Desktop\ML_Project\models\model.pkl
+2026-01-17 17:49:17,255 - INFO - Application started
+2026-01-17 17:49:17,276 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 17:49:17,276 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 17:49:17,287 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:49:18,277 - INFO - Model loaded successfully from C:\Users\Yash\OneDrive\Desktop\ML_Project\models\model.pkl
+2026-01-17 17:49:18,277 - INFO - Application started
+2026-01-17 17:49:18,283 - WARNING -  * Debugger is active!
+2026-01-17 17:49:18,288 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:53:18,886 - INFO - Input received: {'features': [4, 128, 6, 64]}
+2026-01-17 17:53:18,886 - ERROR - Prediction failed: 'numpy.ndarray' object has no attribute 'predict'
+2026-01-17 17:53:18,887 - INFO - 127.0.0.1 - - [17/Jan/2026 17:53:18] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-01-17 17:54:25,960 - INFO -  * Detected change in 'C:\\Users\\Yash\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\flask\\templating.py', reloading
+2026-01-17 17:54:25,981 - INFO -  * Detected change in 'C:\\Users\\Yash\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2026-01-17 17:54:26,001 - INFO -  * Detected change in 'C:\\Users\\Yash\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2026-01-17 17:54:26,912 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:54:27,964 - INFO - Model loaded successfully from C:\Users\Yash\OneDrive\Desktop\ML_Project\models\model.pkl
+2026-01-17 17:54:27,965 - INFO - Application started
+2026-01-17 17:54:27,971 - WARNING -  * Debugger is active!
+2026-01-17 17:54:27,976 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:54:54,264 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'models\\model.pkl'
+2026-01-17 17:54:54,282 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 17:54:54,282 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 17:54:54,290 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:54:55,450 - INFO - Model loaded successfully
+2026-01-17 17:54:55,456 - WARNING -  * Debugger is active!
+2026-01-17 17:54:55,460 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:55:13,046 - INFO - Input received: {'features': [4, 128, 6, 64]}
+2026-01-17 17:55:13,046 - ERROR - Prediction failed: 'numpy.ndarray' object has no attribute 'predict'
+2026-01-17 17:55:13,046 - INFO - 127.0.0.1 - - [17/Jan/2026 17:55:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-01-17 17:58:07,296 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:58:07,296 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:58:07,296 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 17:58:07,806 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:58:08,343 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\models\\best model.pkl'
+2026-01-17 17:58:08,351 - WARNING -  * Debugger is active!
+2026-01-17 17:58:08,355 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:58:25,743 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'models\\best model.pkl'
+2026-01-17 17:58:25,758 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 17:58:25,758 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 17:58:25,766 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 17:58:26,305 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\models\\best model.pkl'
+2026-01-17 17:58:26,313 - WARNING -  * Debugger is active!
+2026-01-17 17:58:26,318 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 17:58:59,146 - ERROR - Prediction failed: Model not loaded
+2026-01-17 17:58:59,146 - INFO - 127.0.0.1 - - [17/Jan/2026 17:58:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-01-17 18:00:22,876 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 18:00:22,877 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 18:00:22,879 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 18:00:23,652 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:00:24,171 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\models\\best model.pkl'
+2026-01-17 18:00:24,178 - WARNING -  * Debugger is active!
+2026-01-17 18:00:24,183 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 18:01:02,371 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\models\\best model.pkl'
+2026-01-17 18:01:02,386 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 18:01:02,387 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 18:01:02,396 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:01:02,968 - ERROR - Model loading failed: [Errno 2] No such file or directory: 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\models\\best model.pkl'
+2026-01-17 18:01:02,977 - WARNING -  * Debugger is active!
+2026-01-17 18:01:02,982 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 18:03:01,369 - INFO - Model loaded successfully
+2026-01-17 18:03:01,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 18:03:01,385 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 18:03:01,390 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:03:02,494 - INFO - Model loaded successfully
+2026-01-17 18:03:02,501 - WARNING -  * Debugger is active!
+2026-01-17 18:03:02,505 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 18:03:38,254 - INFO -  * Detected change in 'C:\\Users\\Yash\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\sklearn\\base.py', reloading
+2026-01-17 18:03:38,255 - INFO - 127.0.0.1 - - [17/Jan/2026 18:03:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-01-17 18:03:39,014 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:03:40,144 - INFO - Model loaded successfully
+2026-01-17 18:03:40,153 - WARNING -  * Debugger is active!
+2026-01-17 18:03:40,157 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 18:05:35,060 - INFO - Model loaded successfully
+2026-01-17 18:05:35,076 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 18:05:35,076 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 18:05:35,083 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:05:36,243 - INFO - Model loaded successfully
+2026-01-17 18:05:36,251 - WARNING -  * Debugger is active!
+2026-01-17 18:05:36,255 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 18:05:57,192 - INFO - 127.0.0.1 - - [17/Jan/2026 18:05:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2026-01-17 18:10:21,780 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 18:10:21,781 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 18:10:21,782 - INFO -  * Detected change in 'C:\\Users\\Yash\\OneDrive\\Desktop\\ML_Project\\app\\app.py', reloading
+2026-01-17 18:10:22,819 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:13:18,981 - INFO - Model loaded successfully
+2026-01-17 18:13:18,999 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 18:13:18,999 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 18:13:19,007 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 18:13:20,400 - INFO - Model loaded successfully
+2026-01-17 18:13:20,409 - WARNING -  * Debugger is active!
+2026-01-17 18:13:20,415 - INFO -  * Debugger PIN: 125-271-227
+2026-01-17 18:13:47,200 - INFO - Input received: {'features': {'Item_Weight': 4, 'Item_Fat_Content': 128, 'Item_Visibility': 6, 'Item_Type': 1, 'Item_MRP': 250, 'Outlet_Identifier': 1, 'Outlet_Size': 2, 'Outlet_Location_Type': 2, 'Outlet_Type': 1, 'Outlet_Years': 5}}
+2026-01-17 18:13:47,248 - INFO - 127.0.0.1 - - [17/Jan/2026 18:13:47] "POST /predict HTTP/1.1" 200 -
